@@ -1,0 +1,22 @@
+
+.even{
+  position: relative;
+  background-color: #EEE;
+  display: inline;
+  margin: .5em;
+  padding: .3em 0;
+  height: 1.6em;
+  border-radius: 4px;
+}
+.odd{
+  position: relative;
+  margin: .5em;
+  padding: .3em 0;
+  height: 1.6em;
+  border-radius: 4px;
+}.time{
+  background: bisque;
+  display: inline;
+  border-radius: 5px;
+  font-family: Georgia;
+ }
